@@ -1,9 +1,9 @@
 ONE
 TWO modified on git_1
-THREE
+THREE modified another line on git_1
 FOUR
 FIVE modified on git_1
-SIX
+SIX modified another line on git_1
 SEVEN
 EIGHT
 NINE
