@@ -5,6 +5,11 @@ FOUR
 FIVE
 SIX
 SEVEN modified differently in git_1
+THREE MODIFIED in git_2
+FOUR
+FIVE
+SIX
+SEVEN MODIFIED in git_2
 EIGHT
 NINE
 TEN
