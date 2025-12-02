@@ -1,10 +1,10 @@
 ONE
 TWO
-THREE
+THREE modified differently in git_1
 FOUR
 FIVE
 SIX
-SEVEN
+SEVEN modified differently in git_1
 EIGHT
 NINE
 TEN
