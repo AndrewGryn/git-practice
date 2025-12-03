@@ -6,5 +6,5 @@ FIVE modified on git_1
 SIX modified another line on git_1
 SEVEN
 EIGHT
-NINE
-TEN
+NINE modified main folder on git_1
+TEN modified main folder on git_1
