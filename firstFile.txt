@@ -1,7 +1,7 @@
-ONE
+ONE modified on git_1 in folder2
 TWO modified on git_1
 THREE modified another line on git_1
-FOUR
+FOUR modified on git_1 in folder2
 FIVE modified on git_1
 SIX modified another line on git_1
 SEVEN
